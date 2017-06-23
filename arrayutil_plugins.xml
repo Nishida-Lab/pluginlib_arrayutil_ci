@@ -1,0 +1,14 @@
+<library path="lib/libpluginlib_arrayutil_ci">
+  <class name="pluginlib_arrayutil_ci/Sum" type="arrayutil_plugins_ci_sum::Sum" base_class_type="arrayutil_ci_base::ArrayUtil">
+    <description>This is a sum plugin.</description>
+  </class>
+  <class name="pluginlib_arrayutil_ci/Ave" type="arrayutil_plugins_ci_ave::Ave" base_class_type="arrayutil_ci_base::ArrayUtil">
+    <description>This is a ave plugin.</description>
+  </class>
+  <class name="pluginlib_arrayutil_ci/Min" type="arrayutil_plugins_ci_min::Min" base_class_type="arrayutil_ci_base::ArrayUtil">
+    <description>This is a min plugin.</description>
+  </class>
+  <class name="pluginlib_arrayutil_ci/Max" type="arrayutil_plugins_ci_max::Max" base_class_type="arrayutil_ci_base::ArrayUtil">
+    <description>This is a max plugin.</description>
+  </class>
+</library>
